@@ -1,0 +1,9 @@
+/**
+ * obtenerGanancias
+ *
+ * @argument
+ *
+ */
+const obtenerGanancias = () => {
+
+}
